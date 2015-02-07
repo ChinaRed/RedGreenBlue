@@ -3,12 +3,12 @@
 
 html{
   font-family: 'Faster One', cursive;
-  color: white;
   font-size: 1em;
+  color: white;
 }
 
 body{
-  background-image: url(../images/bloodsportring.jpeg);
+  background-image: url('/images/bloodsportring.jpeg');
   background-size: cover;
   background-attachment: fixed;
   background-color: brown;
@@ -34,7 +34,7 @@ li{
 }
 
 #hero{
-  background-image: url(../images/bloodsportcover.jpeg);
+  background-image: url('/images/bloodsportcover.jpeg');
   background-size: contain;
 }
 
@@ -98,17 +98,17 @@ li{
   }
 
     #super_heroes li:nth-child(1){
-    background-image: url(../images/chong_points.jpg);
+    background-image: url('/images/chong_points.jpg');
     background-size: cover;
   }
 
   #super_heroes li:nth-child(2){
-    background-image: url(../images/bloodsport1.jpg);
+    background-image: url('/images/bloodsport1.jpg');
     background-size: cover;
   }
 
   #super_heroes li:nth-child(3){
-    background-image: url(../images/bloodsport2.jpeg);
+    background-image: url('/images/bloodsport2.jpeg');
     background-size: cover;
   }
 
@@ -151,17 +151,17 @@ li{
   }
 
   #super_heroes li:nth-child(1){
-    background-image: url(../images/chong_points.jpg);
+    background-image: url('/images/chong_points.jpg');
     background-size: cover;
   }
 
   #super_heroes li:nth-child(2){
-    background-image: url(../images/bloodsport1.jpg);
+    background-image: url('/images/bloodsport1.jpg');
     background-size: cover;
   }
 
   #super_heroes li:nth-child(3){
-    background-image: url(../images/bloodsport2.jpeg);
+    background-image: url('/images/bloodsport2.jpeg');
     background-size: cover;
   }
 
