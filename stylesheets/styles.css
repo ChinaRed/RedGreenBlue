@@ -89,6 +89,7 @@ li{
     border-style: solid;
     border-width: 3px;
     border-color: #b2b2ff;
+    padding: 0;
   }
 
   #super_heroes li{
